@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - header file included
- *
+ * print_alphabet - print alphabet now
  * Return: Always 0
  */
 void print_alphabet(void)
