@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _putchar - print the character c to stdout
- * 
- * Return 0 (success)
+ * main- header included
+ * _putchar - print
+ * Return: 0 (success)
  */
 
 int main(void)
@@ -16,5 +16,7 @@ _putchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
-}
+_putchar('\n');
 
+	return (0);
+}
