@@ -2,7 +2,7 @@
 
 /**
  * _strspn - a function that gets the length of a prefix substring
- * @s: initial segment of s 
+ * @s: initial segment of s
  * @accept: bytes
  * Return: unsigned int
  */
