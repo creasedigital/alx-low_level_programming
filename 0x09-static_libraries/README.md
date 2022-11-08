@@ -1,3 +1,4 @@
-#libmy.a is a static library.
+# creating and manipulating static lib
 
-#create static libs
+#main.h contains all the headers prototypes
+
