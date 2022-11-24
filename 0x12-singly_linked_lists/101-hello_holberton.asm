@@ -1,7 +1,3 @@
-; The text section
-/*
-This is a multiline comment
-*/
 section .text
 	global _start
 
