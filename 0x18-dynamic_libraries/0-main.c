@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- * Return: Always EXIT_SUCCESS.
+ * Return: Always 0
  */
 
 int main(void)
